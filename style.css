@@ -1,0 +1,112 @@
+h1 {
+  color: black;
+  font-weight: bold;
+  font-family: 'Oswald', sans-serif;
+  font-size: 3vw;
+  text-align: center;
+
+}
+
+h2 {
+  color: grey;
+  font-weight: bold;
+  font-family: 'Oswald', sans-serif;
+  font-size: 2.3vw;
+  text-align: center;
+
+}
+
+p {
+  background: white;
+  padding: 3vw;
+  font-family:'Roboto', sans-serif;
+  font-size: 1.8vw;
+  line-height: 2.5vw;
+  text-align: center;
+}
+
+body {
+  background-color: #7EAEF0;
+  font-family: 'Roboto', sans-serif;
+  color: black;
+  font-size: 20px;
+  line-height: 1;
+}
+
+.img1 {
+  margin-left: auto;
+  margin-right: auto;
+  size: 10vw;
+  background-image : url("images/profile-picture.png");
+
+
+}
+
+.img1:hover {
+  background-image : url("https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjYz-WIod_jAhWdDmMBHWFJAGcQjRx6BAgBEAU&url=https%3A%2F%2Fwww.madmoizelle.com%2Ftrollface-meme-82157&psig=AOvVaw0xK1PVulDc17IN9-4lUA51&ust=1564665960691705") no-repeat;
+}
+
+.container {
+  margin: 0 auto;
+  width: 50vw;
+  background-color: #7EAEF0;
+}
+
+.card {
+  margin: 5vw auto;
+  padding: 30px;
+  width: 50vw;
+  background-color: white;
+  border-radius: 7px;
+  text-align: center;
+}
+
+.center_image {
+  display: block;
+  margin: 0 auto;
+  width: 10vw;
+  border-radius: 50%;
+  border: 1px solid #ddd;
+}
+
+a {
+  font-color: blue;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.list-inline {
+  display: inline-block;
+  list-style: none;
+  margin: 0 15px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.button {
+  background-color: #F83602; /* Green */
+  border: none;
+  color: white;
+  padding: 2vw 2vw;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 2vw;
+  font-family: 'Roboto', sans-serif;
+  border-radius: 6px;
+}
+
+
+
+#logo_big {
+  font-size: 4vw;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: blue;
+}
+
+#footer {
+  padding: ;
+}
